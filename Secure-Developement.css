@@ -1,0 +1,126 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 562px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1rem;
+  margin: 50px 894px 0 20px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 3em;
+  color: rgb(0, 0, 0) !important;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1rem;
+  margin: 28px 160px 0 106px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1rem;
+  text-decoration: underline !important;
+  margin: 60px 948px 0 74px;
+}
+
+.u-section-1 .u-text-4 {
+  letter-spacing: 0px;
+  font-size: 1rem;
+  margin: 74px 90px 17px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 144px;
+    margin-right: 689px;
+    margin-left: 33px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-left: 33px;
+    margin-right: 33px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 37px;
+    margin-right: 806px;
+    margin-left: 16px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 16px;
+    margin-left: 33px;
+    margin-right: 33px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 502px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 602px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 196px;
+    margin-right: 322px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 422px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 464px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 0.875rem;
+    margin-top: 16px;
+    margin-right: 122px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    font-size: 2em;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 0.75rem;
+    margin-top: 32px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 0.875rem;
+    margin-right: 208px;
+    margin-left: 14px;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 0.75rem;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-bottom: -165px;
+  }
+}

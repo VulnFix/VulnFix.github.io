@@ -1,0 +1,132 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1rem;
+  margin: 24px 552px 0 24px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 3em;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1rem;
+  margin: 16px 182px 0 84px;
+}
+
+.u-section-1 .u-text-3 {
+  text-decoration: underline !important;
+  font-size: 1rem;
+  margin: 20px 964px 0 58px;
+}
+
+.u-section-1 .u-text-4 {
+  letter-spacing: 0px;
+  font-size: 1rem;
+  margin: 20px 106px 60px 74px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 521px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: 357px;
+    margin-left: 19px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    color: rgb(17, 17, 17) !important;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 20px;
+    margin-left: 33px;
+    margin-right: 33px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 19px;
+    margin-right: 803px;
+    margin-left: 19px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 16px;
+    margin-right: 394px;
+    margin-left: 46px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 156px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 602px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 220px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 422px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 40px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 447px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 0.875rem;
+    margin-top: 5px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    font-size: 2em;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 0.75rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 0.75rem;
+    margin-right: 222px;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 0.75rem;
+    margin-right: 0;
+    margin-bottom: 5px;
+  }
+}

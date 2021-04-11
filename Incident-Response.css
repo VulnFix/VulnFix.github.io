@@ -1,0 +1,148 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 675px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1rem;
+  margin: 20px 740px 0 50px;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(17, 17, 17) !important;
+  font-size: 3em;
+}
+
+.u-section-1 .u-text-2 {
+  letter-spacing: 1px;
+  line-height: 2;
+  font-size: 1rem;
+  margin: 0 290px 0 122px;
+}
+
+.u-section-1 .u-list-icon-1 {
+  color: rgb(33, 150, 243) !important;
+}
+
+.u-section-1 .u-list-icon-2 {
+  color: rgb(33, 150, 243) !important;
+}
+
+.u-section-1 .u-list-icon-1 {
+  color: rgb(33, 150, 243) !important;
+}
+
+.u-section-1 .u-list-icon-4 {
+  color: rgb(33, 150, 243) !important;
+}
+
+.u-section-1 .u-list-icon-1 {
+  color: rgb(33, 150, 243) !important;
+}
+
+.u-section-1 .u-list-icon-6 {
+  color: rgb(33, 150, 243) !important;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  font-size: 1rem;
+  margin: 45px 58px 0;
+}
+
+.u-section-1 .u-text-4 {
+  text-decoration: underline !important;
+  font-size: 1rem;
+  margin: 25px 964px 0 58px;
+}
+
+.u-section-1 .u-text-5 {
+  letter-spacing: 0px;
+  font-size: 1rem;
+  margin: 24px 106px 45px 74px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 590px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 190px;
+    margin-left: 22px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 822px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 370px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 602px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 190px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 422px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 620px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 0.875rem;
+    margin-top: 5px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-icon-1 {
+    font-size: 2em;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 0.75rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 0.75rem;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 0.75rem;
+    margin-right: 222px;
+  }
+
+  .u-section-1 .u-text-5 {
+    font-size: 0.75rem;
+    margin-bottom: 5px;
+  }
+}
